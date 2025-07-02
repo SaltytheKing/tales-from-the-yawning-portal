@@ -1,0 +1,3 @@
+Unearthed Arcana presents two new options that allow arcane casters to express their faith in the gods. The Pact of [[The Seeker]] was inspired by the Greyhawk deity Celestian, god of the stars, space, and wanderers. It provides a pact that ties a [[Warlock]] to a mysterious, inscrutable deity dedicated to gathering knowledge and lore. For [[Wizard|Wizards]], the Theurgy arcane tradition allows you to create a magic-user whose arcane instruction is guided by the teachings of a deity. This design is a personal favorite of mine, as it’s always been something of a pet peeve that a god of magic would primarily have clerics rather than [[Wizard|Wizards]] as followers. This tradition allows a [[Wizard]] to gain the benefits of a divine domain.
+
+#sourcebook  #UATF

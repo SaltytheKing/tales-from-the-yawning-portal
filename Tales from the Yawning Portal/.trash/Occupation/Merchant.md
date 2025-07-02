@@ -1,0 +1,1 @@
+Someone who sells goods, housing or information.

@@ -1,0 +1,5 @@
+
+
+```statblock
+monster: Giant Frog
+```

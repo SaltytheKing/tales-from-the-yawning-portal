@@ -1,0 +1,9 @@
+A typical creature in the worlds of Dungeons & Dragons has an alignment, which broadly describes its moral and personal attitudes. Alignment is a combination of two factors: one identifies morality (good, evil, or neutral), and the other describes attitudes toward society and order (lawful, chaotic, or neutral).
+
+Thus, nine distinct alignments define the possible combinations.
+
+These brief summaries of the nine alignments describe the typical behavior of a creature with that alignment. Individuals might vary significantly from that typical behavior, and few people are perfectly and consistently faithful to the precepts of their alignment.
+
+
+
+#alignment 

@@ -1,0 +1,1 @@
+Character's in the campaign that are controlled by players that are not the [[Dungeon Master]].

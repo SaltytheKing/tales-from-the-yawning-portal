@@ -1,0 +1,5 @@
+_Tasha's Cauldron of Everything_ offers a host of new options for Dungeons & Dragons, and our journey through those options is accompanied by the notes of the wizard Tasha. Creator of the spell [[Tasha's Hideous Laughter]], Tasha's life is one of the most storied in the D&D multiverse. Raised by Baba Yaga, the Mother of Witches herself, Tasha adventured across the world of Greyhawk and became the friend and sometimes enemy of other famous adventurers, like Mordenkainen. In time, she ruled as the Witch Queen and later changed her name to Iggwilv—a figure of legend who is whispered about, feared, and admired.
+
+Written for players and Dungeon Masters alike, this book offers options to enhance characters and campaigns in any D&D world, whether you're adventuring in Greyhawk, another official D&D setting, or a world of your own creation.
+
+#sourcebook #TCE 

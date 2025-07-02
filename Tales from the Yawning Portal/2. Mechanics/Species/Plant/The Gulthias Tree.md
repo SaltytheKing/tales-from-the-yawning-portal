@@ -1,0 +1,5 @@
+A Gargantuan [[plant]]. It is an [[Evil]] tree, with blackened, twisted limbs that reach upward, like a skeletal hand clawing its way out of the earth. 
+
+The tree used to be a [[Vampire]] by the name of [[Gulthias]], until [[Atlas Dyddson]] staked him in the heart, and the stake took root. The rooting of the Gulthias tree also caused [[The Sunless Citadel (Location)]] to collapse and is a large reason that the [[Children of Ashardalon]] broke apart.
+
+A branch of the tree was broken off and turned into the [[Gulthias Staff]] by [[Belak the Outcast]], who also studied the tree until he was killed by the [[Meepo's Misfits]] and [[Sir Braford]]. [[Belak the Outcast]] also used the [[Durbuluk Tribe]] to give out the fruit that the tree grew to spread out [[Twig Blight]]s and expand the reach of his plan.

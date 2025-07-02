@@ -1,0 +1,3 @@
+A [[Gnome]] village.
+
+#location 

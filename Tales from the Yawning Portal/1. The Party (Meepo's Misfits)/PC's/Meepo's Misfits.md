@@ -1,0 +1,1 @@
+The adventuring party of [[Cher 'Horror' Witz]], [[Kraum Mirthridge]], [[Owyn Sylvanranth]], [[Jorah Fellwise]] and [[Somer Thunderfall]]

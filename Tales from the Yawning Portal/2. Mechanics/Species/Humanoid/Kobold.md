@@ -1,0 +1,5 @@
+Some of the smallest draconic creatures in the multiverse, kobolds display their draconic ancestry in the glint of their scales and in their roars. Legends tell of the first kobolds emerging from the [[Underdark]] near the lairs of the earliest [[Dragon]]s. In some lands, kobolds serve chromatic or metallic [[Dragon]]s—even worshiping them as divine beings. In other places, kobolds know too well how dangerous those dragons can be and help others defend against draconic destruction.
+
+Whatever their relationship to [[Dragon]]s, kobold scales tend to be rust colored, although the occasional kobold sports a scale color more akin to that of a chromatic or a metallic [[Dragon]]. A kobold's cry can express a range of emotion: anger, resolve, elation, fear, and more. Regardless of the emotion expressed, their cry resonates with draconic power.
+
+#species #kobold

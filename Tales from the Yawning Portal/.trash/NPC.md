@@ -1,0 +1,1 @@
+Non-Player Characters are character's in the campaign that are only controlled by the [[Dungeon Master]]

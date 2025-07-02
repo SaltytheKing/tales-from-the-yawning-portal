@@ -1,0 +1,1 @@
+Person controlling [[Somer Thunderfall]] in [[The Sunless Citadel (Adventure)]].

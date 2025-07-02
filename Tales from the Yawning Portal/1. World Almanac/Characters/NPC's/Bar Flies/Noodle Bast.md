@@ -1,0 +1,3 @@
+A young [[Tabaxi]] girl from [[Homeport]] with a patchy cloak that she insists is a super hero cape, and a wooden umbrella that she claims is a magical sword. The girl hangs out near the [[Yawning Portal Inn]] and [[Durnan]] often gives her milk, treats and sometimes even money out of the [[Swear Jar]] to leave the tavern. She loves asking [[Meepo's Misfits]] about their adventures, believing them to be real life super heroes. She gives nicknames to the party. After a few times back to town, Noodle will give [[Meepo's Misfits]] a drawing she made of the stories they have told her. 
+
+#npc

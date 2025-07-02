@@ -1,0 +1,1 @@
+Person controlling [[Kraum Mirthridge]] in the [[The Sunless Citadel (Adventure)]].
